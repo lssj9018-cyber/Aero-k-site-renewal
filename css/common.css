@@ -4,7 +4,6 @@
 *{
     margin:0;
     padding:0;
-    box-sizing: border-box;
 }
 
 /* li 장식제거 */
@@ -39,5 +38,5 @@ body{
     font-size: 16px;
     /* 폰트이름이 한글이면 무조건 따옴표 붙이기 */
     font-family: Pretendard,"돋움",sans-serif;
-    color: #111;
+    color: #222;
 }
